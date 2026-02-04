@@ -16,7 +16,7 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
 
 🔍 Availability: I’m also available for full-time Backend/Fullstack Engineering roles.
 
-🛠 Some Favortite Technologies and Tools
+🛠 Favorite Technologies and Tools
 git javascript react typescript html css node docker kubernetes postman, golang, c##
 
 🌐 Let’s Connect

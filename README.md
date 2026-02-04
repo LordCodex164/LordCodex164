@@ -23,6 +23,7 @@ Community & growth
 
 Fun fact: Good music keeps my productivity high 🎧
 
+```
 ┌──────────────────────────────────────────────┐
 │              TECH STACK                      │
 ├──────────────────────────────────────────────┤
@@ -39,3 +40,4 @@ Fun fact: Good music keeps my productivity high 🎧
 │  Tools                                       │
 │  Git • Postman • Swagger • OpenAPI           │
 └──────────────────────────────────────────────┘
+```

@@ -1,22 +1,41 @@
-Hey there👋
-Welcome to my GitHub Profile, I'm Daniel Adeniran 😁
-A Backend Heavy FullStack Engineer who loves architecting backend services and optimizing server side applications
+Hey there 👋
+Welcome to my GitHub, I'm Daniel Adeniran 😄
 
-In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
+I’m a backend-focused software engineer passionate about building reliable, secure, and scalable systems — especially in payments, fintech, logistics, and data-driven platforms.
 
-📚 Learning: Exploring best practices in software engineering.
+I enjoy designing APIs, improving system reliability, and shipping production-grade backend services end-to-end.
 
-🌟 Mentorship: Actively contributing through one-on-one sessions with beginners.
+Currently focused on
 
-🤝 Collaboration: Looking to collaborate on innovative solutions.
+🧠 Deepening backend engineering skills (Go, distributed systems, clean architecture)
 
-👩‍💼 Pronouns: He/Him
+💳 Building secure payment & financial workflows
 
-🎵 Fun Fact: I enjoy all kinds of good music.
+⚙️ Improving performance, reliability, and observability of backend systems
 
-🔍 Availability: I’m also available for full-time Backend/Fullstack Engineering roles.
+Community & growth
 
-🛠 Favorite Technologies and Tools
-git javascript react typescript html css node docker kubernetes postman, golang, c##
+🌱 Continuously learning software engineering best practices
 
-🌐 Let’s Connect
+🤝 Open to collaboration and open-source contributions
+
+🧑‍💻 Available for Backend / Full-stack roles (backend-leaning)
+
+Fun fact: Good music keeps my productivity high 🎧
+
+┌──────────────────────────────────────────────┐
+│              TECH STACK                      │
+├──────────────────────────────────────────────┤
+│  Languages                                   │
+│  Go • TypeScript • JavaScript • PHP • C#     │
+│                                              │
+│  Backend                                     │
+│  Node.js • Express • NestJS • REST APIs      │
+│  MongoDB • PostgreSQL • Microservices        │
+│                                              │
+│  DevOps & Infra                              │
+│  Docker • Kubernetes • CI/CD • Linux         │
+│                                              │
+│  Tools                                       │
+│  Git • Postman • Swagger • OpenAPI           │
+└──────────────────────────────────────────────┘
